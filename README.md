@@ -8,9 +8,9 @@
         <h1>This is being forced</h1>
         <h2>Homework No.1</h2>
         <a href = "page1.html">ai/ no ai</a>
-        <img src = "picture/pic.png" alt="image">
+        <img src = "pictures/pic.png" alt="image">
         <video controls style="width: 15cm;">
-            <source src="video/video1.mp4">
+            <source src="videos/video1.mp4">
         </video>
     </body>
 </html>
