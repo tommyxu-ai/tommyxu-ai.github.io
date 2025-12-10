@@ -8,6 +8,7 @@
         <h1>This is being forced</h1>
         <h2>Homework No.1</h2>
         <a href = "page1.html">ai/ no ai</a>
+        <a href = "assignment.1.html">assignment</a>
         <img src = "pictures/pic.png" alt="image">
         <video controls style="width: 15cm;">
             <source src="videos/video1.mp4">
